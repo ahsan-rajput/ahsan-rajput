@@ -21,7 +21,7 @@ Building full-stack apps and embedded systems while studying Software Engineerin
 
 ### About Me
 
-I'm a 4th-semester BS Software Engineering student at the **University of the Punjab** (CGPA 3.91/4.00), with hands-on experience across full-stack web development and embedded/hardware systems.
+I'm a 5th-semester BS Software Engineering student at the **University of the Punjab** (CGPA 3.91/4.00), with hands-on experience across full-stack web development and embedded/hardware systems.
 
 - 🎓 Studying Software Engineering, focused on backend development, database design, and problem solving
 - 🏆 1st Place — Olympiad 5.0 Project Exhibition, for a Braille-to-Text Converter (Arduino/C++)
